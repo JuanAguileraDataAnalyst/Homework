@@ -1,0 +1,14 @@
+C:\Users\juana\source\repos\Tutorial\02_Variables\bin\Debug\net8.0\02_Variables.exe
+C:\Users\juana\source\repos\Tutorial\02_Variables\bin\Debug\net8.0\02_Variables.deps.json
+C:\Users\juana\source\repos\Tutorial\02_Variables\bin\Debug\net8.0\02_Variables.runtimeconfig.json
+C:\Users\juana\source\repos\Tutorial\02_Variables\bin\Debug\net8.0\02_Variables.dll
+C:\Users\juana\source\repos\Tutorial\02_Variables\bin\Debug\net8.0\02_Variables.pdb
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.AssemblyInfoInputs.cache
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.AssemblyInfo.cs
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.csproj.CoreCompileInputs.cache
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.dll
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\refint\02_Variables.dll
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.pdb
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\02_Variables.genruntimeconfig.cache
+C:\Users\juana\source\repos\Tutorial\02_Variables\obj\Debug\net8.0\ref\02_Variables.dll

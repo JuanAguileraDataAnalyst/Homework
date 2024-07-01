@@ -1,0 +1,15 @@
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.AssemblyInfo.cs
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\bin\Debug\net8.0\03_ScoreCalculator.exe
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\bin\Debug\net8.0\03_ScoreCalculator.deps.json
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\bin\Debug\net8.0\03_ScoreCalculator.runtimeconfig.json
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\bin\Debug\net8.0\03_ScoreCalculator.dll
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\bin\Debug\net8.0\03_ScoreCalculator.pdb
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.dll
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\refint\03_ScoreCalculator.dll
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.pdb
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.genruntimeconfig.cache
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\ref\03_ScoreCalculator.dll
+C:\Users\juana\source\repos\Tutorial\03_ScoreCalculator\obj\Debug\net8.0\03_ScoreCalculator.sourcelink.json

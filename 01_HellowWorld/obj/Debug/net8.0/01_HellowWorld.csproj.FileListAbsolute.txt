@@ -1,0 +1,14 @@
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\bin\Debug\net8.0\01_HellowWorld.exe
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\bin\Debug\net8.0\01_HellowWorld.deps.json
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\bin\Debug\net8.0\01_HellowWorld.runtimeconfig.json
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\bin\Debug\net8.0\01_HellowWorld.dll
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\bin\Debug\net8.0\01_HellowWorld.pdb
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.AssemblyInfoInputs.cache
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.AssemblyInfo.cs
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.csproj.CoreCompileInputs.cache
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.dll
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\refint\01_HellowWorld.dll
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.pdb
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\01_HellowWorld.genruntimeconfig.cache
+C:\Users\juana\source\repos\Tutorial\01_HellowWorld\obj\Debug\net8.0\ref\01_HellowWorld.dll
